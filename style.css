@@ -140,6 +140,7 @@ p, li {
     font-size: 18px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     transition: box-shadow 0.3s ease;
+    align-items: center;
 }
 
 .project-item:hover {

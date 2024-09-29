@@ -176,33 +176,3 @@ footer {
     bottom: 0;
     width: 100%;
 }
-
-@media (max-width: 768px) {
-    .section {
-        max-width: 75px;
-        padding: 60px;
-    }
-
-
-    .skills-list {
-        padding: 40px;
-    }
-
-    .project-list li {
-        max-width: 45%;
-    }
-}
-
-@media (min-width: 1024px) {
-    nav ul li {
-        margin: 0 25px;
-    }
-
-    .contact-section {
-        padding: 50px;
-    }
-
-    .project-list li {
-        max-width: 30%;
-    }
-}
